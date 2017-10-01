@@ -8,19 +8,19 @@ endif
 let s:gui00 = "191c1f"
 let s:gui01 = "282c30"
 let s:gui02 = "444b52"
-let s:gui03 = "5d6770"
-let s:gui04 = "7f8c99"
-let s:gui05 = "a8b4bf"
-let s:gui06 = "d5dfe8"
+let s:gui03 = "676c70"
+let s:gui04 = "8d9399"
+let s:gui05 = "b0b8bf"
+let s:gui06 = "dfe3e8"
 let s:gui07 = "f5faff"
-let s:gui08 = "bf3f4a"
-let s:gui09 = "d46900"
-let s:gui0A = "d48d00"
-let s:gui0B = "4a8000"
+let s:gui08 = "d44652"
+let s:gui09 = "d47211"
+let s:gui0A = "bf850f"
+let s:gui0B = "659425"
 let s:gui0C = "3e947e"
 let s:gui0D = "3f8abf"
 let s:gui0E = "7d6fbf"
-let s:gui0F = "bf60a7"
+let s:gui0F = "bf6fab"
 
 " Terminal color definitions
 let s:cterm00 = "00"
@@ -43,20 +43,20 @@ let s:cterm0F = "17"
 " Neovim terminal colours
 if has("nvim")
   let g:terminal_color_0 =  "#191c1f"
-  let g:terminal_color_1 =  "#bf3f4a"
-  let g:terminal_color_2 =  "#4a8000"
-  let g:terminal_color_3 =  "#d48d00"
+  let g:terminal_color_1 =  "#d44652"
+  let g:terminal_color_2 =  "#659425"
+  let g:terminal_color_3 =  "#bf850f"
   let g:terminal_color_4 =  "#3f8abf"
   let g:terminal_color_5 =  "#7d6fbf"
   let g:terminal_color_6 =  "#3e947e"
-  let g:terminal_color_7 =  "#a8b4bf"
-  let g:terminal_color_8 =  "#5d6770"
-  let g:terminal_color_9 =  "#d46900"
+  let g:terminal_color_7 =  "#b0b8bf"
+  let g:terminal_color_8 =  "#676c70"
+  let g:terminal_color_9 =  "#d47211"
   let g:terminal_color_10 = "#282c30"
   let g:terminal_color_11 = "#444b52"
-  let g:terminal_color_12 = "#7f8c99"
-  let g:terminal_color_13 = "#d5dfe8"
-  let g:terminal_color_14 = "#bf60a7"
+  let g:terminal_color_12 = "#8d9399"
+  let g:terminal_color_13 = "#dfe3e8"
+  let g:terminal_color_14 = "#bf6fab"
   let g:terminal_color_15 = "#f5faff"
   let g:terminal_color_background = g:terminal_color_0
   let g:terminal_color_foreground = g:terminal_color_7
@@ -106,7 +106,7 @@ call <sid>hi("Folded",        s:gui03, s:gui01, s:cterm03, s:cterm01, "", "")
 call <sid>hi("IncSearch",     s:gui01, s:gui09, s:cterm01, s:cterm09, "none", "")
 call <sid>hi("Italic",        "", "", "", "", "none", "")
 call <sid>hi("Macro",         s:gui08, "", s:cterm08, "", "", "")
-call <sid>hi("MatchParen",    "", s:gui03, "", s:cterm03,  "", "")
+call <sid>hi("MatchParen",    s:gui00, s:gui03, s:cterm00, s:cterm03,  "", "")
 call <sid>hi("ModeMsg",       s:gui0B, "", s:cterm0B, "", "", "")
 call <sid>hi("MoreMsg",       s:gui0B, "", s:cterm0B, "", "", "")
 call <sid>hi("Question",      s:gui0D, "", s:cterm0D, "", "", "")
@@ -130,7 +130,7 @@ call <sid>hi("VertSplit",     s:gui02, s:gui02, s:cterm02, s:cterm02, "none", ""
 call <sid>hi("ColorColumn",   "", s:gui01, "", s:cterm01, "none", "")
 call <sid>hi("CursorColumn",  "", s:gui01, "", s:cterm01, "none", "")
 call <sid>hi("CursorLine",    "", s:gui01, "", s:cterm01, "none", "")
-call <sid>hi("CursorLineNr",  s:gui04, s:gui01, s:cterm04, s:cterm01, "", "")
+call <sid>hi("CursorLineNr",  s:gui00, s:gui03, s:cterm00, s:cterm03, "", "")
 call <sid>hi("QuickFixLine",  "", s:gui01, "", s:cterm01, "none", "")
 call <sid>hi("PMenu",         s:gui05, s:gui01, s:cterm05, s:cterm01, "none", "")
 call <sid>hi("PMenuSel",      s:gui01, s:gui05, s:cterm01, s:cterm05, "", "")

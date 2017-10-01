@@ -12,25 +12,27 @@
 %s/181818/191c1f/ |
 %s/282828/282c30/ |
 %s/383838/444b52/ |
-%s/585858/5d6770/ |
-%s/b8b8b8/7f8c99/ |
-%s/d8d8d8/a8b4bf/ |
-%s/e8e8e8/d5dfe8/ |
+%s/585858/676c70/ |
+%s/b8b8b8/8d9399/ |
+%s/d8d8d8/b0b8bf/ |
+%s/e8e8e8/dfe3e8/ |
 %s/f8f8f8/f5faff/ |
 
-%s/ab4642/bf3f4a/ |
-%s/dc9656/d46900/ |
-%s/f7ca88/d48d00/ |
-%s/a1b56c/4a8000/ |
+%s/ab4642/d44652/ |
+%s/dc9656/d47211/ |
+%s/f7ca88/bf850f/ |
+%s/a1b56c/659425/ |
 %s/86c1b9/3e947e/ |
 %s/7cafc2/3f8abf/ |
 %s/ba8baf/7d6fbf/ |
-%s/a16946/bf60a7/ |
+%s/a16946/bf6fab/ |
 
 %s/Character",    s:gui08, "", s:cterm08/Character",    s:gui0D, "", s:cterm0D/ |
 %s/Cursor",        s:gui00, s:gui05, s:cterm00, s:cterm05/Cursor",        s:gui00, s:gui0D, s:cterm00, s:cterm0D/ |
+%s/CursorLineNr",  s:gui04, s:gui01, s:cterm04, s:cterm01/CursorLineNr",  s:gui00, s:gui03, s:cterm00, s:cterm03/ |
 %s/Identifier",   s:gui08, "", s:cterm08, "", "none/Identifier",   s:gui0D, "", s:cterm0D, "", "bold/ |
 %s/LineNr",        s:gui03, s:gui01, s:cterm03/LineNr",        s:gui04, s:gui01, s:cterm05/ |
+%s/MatchParen",    "", s:gui03, "", s:cterm03/MatchParen",    s:gui00, s:gui03, s:cterm00, s:cterm03/ |
 %s/Search",        s:gui03, s:gui0A, s:cterm03, s:cterm0A,  "", "")/Search",        s:gui00, s:gui0A, s:cterm00, s:cterm0A,  "", "")/ |
 %s/statusline",    s:gui04, s:gui02, s:cterm04, s:cterm02/statusline",    s:gui00, s:gui0D, s:cterm00, s:cterm0D/ |
 %s/StatusLineNC",  s:gui03, s:gui01, s:cterm03, s:cterm01/StatusLineNC",  s:gui05, s:gui01, s:cterm05, s:cterm01/ |
