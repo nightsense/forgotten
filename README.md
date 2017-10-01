@@ -1,6 +1,6 @@
 # forgotten
 
-A vim theme inspired by the [Oblivion keycap set](https://oblotzky.github.io/sa-oblivion/) by oblotzky (which was in turn inspired by the Oblivion tmTheme by Paolo Borelli).
+A vim theme inspired by the [Oblivion keycap set](https://oblotzky.github.io/sa-oblivion/) by oblotzky (which was inspired by the Oblivion tmTheme by Paolo Borelli).
 
 ## screenshots
 
