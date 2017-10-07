@@ -82,17 +82,17 @@ call plug#end()
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/24292b.png" height="24" width="42" /> <code class="highlighter-rouge">24292b</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/eb3a3a.png" height="24" width="42" /> <code class="highlighter-rouge">eb3a3a</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/eb6363.png" height="24" width="42" /> <code class="highlighter-rouge">eb6363</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/e05f5f.png" height="24" width="42" /> <code class="highlighter-rouge">e05f5f</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/353c40.png" height="24" width="42" /> <code class="highlighter-rouge">353c40</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/e06812.png" height="24" width="42" /> <code class="highlighter-rouge">e06812</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/e0894a.png" height="24" width="42" /> <code class="highlighter-rouge">e0894a</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/d48146.png" height="24" width="42" /> <code class="highlighter-rouge">d48146</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/464f54.png" height="24" width="42" /> <code class="highlighter-rouge">464f54</code> </td>
-      <td style="text-align: center"><img src="http://www.colorhexa.com/e0bf38.png" height="24" width="42" /> <code class="highlighter-rouge">e0bf38</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/e0c34a.png" height="24" width="42" /> <code class="highlighter-rouge">e0c34a</code></td>
+      <td style="text-align: center"><img src="http://www.colorhexa.com/c9af42.png" height="24" width="42" /> <code class="highlighter-rouge">c9af42</code> </td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/bda84f.png" height="24" width="42" /> <code class="highlighter-rouge">bda84f</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/6c7275.png" height="24" width="42" /> <code class="highlighter-rouge">6c7275</code> </td>
@@ -117,7 +117,7 @@ call plug#end()
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/f5fbff.png" height="24" width="42" /> <code class="highlighter-rouge">f5fbff</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/e05e85.png" height="24" width="42" /> <code class="highlighter-rouge">e05e85</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/e0829e.png" height="24" width="42" /> <code class="highlighter-rouge">e0829e</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/d47b95.png" height="24" width="42" /> <code class="highlighter-rouge">d47b95</code></td>
     </tr>
   </tbody>
 </table>
@@ -128,7 +128,7 @@ call plug#end()
 <p><img src="http://www.colorhexa.com/e06812.png" height="24" width="42" />
 <strong>Orange</strong> is the colour of fire, which serves as a preliminary to many practical activities. Orange is therefore used for <strong>preliminary elements</strong>, such as preprocessor commands (which prepare data to be handled by another program), incremental searching (that is, a search term in the process of being typed), titles, and miscapitalized words.</p>
 
-<p><img src="http://www.colorhexa.com/e0bf38.png" height="24" width="42" />
+<p><img src="http://www.colorhexa.com/c9af42.png" height="24" width="42" />
 <strong>Yellow</strong>, the classic highlighting colour, is applied to elements that are not warnings yet should draw attention with high visibility. These <strong>highlighted elements</strong> include search results, task tags (<code class="highlighter-rouge">TODO</code>, <code class="highlighter-rouge">FIXME</code>…), and diff changes.</p>
 
 <p><img src="http://www.colorhexa.com/25942e.png" height="24" width="42" />
