@@ -86,9 +86,6 @@ endif
 " run theme-setting script if using terminal vim
 if !has('gui_running')
   execute 'silent !/bin/sh $HOME/.nightshell/forgotten-dark'
-  "autocmd CursorMoved * execute 'if !exists("colors_name") |
-  "      \ let colors_name = "forgotten-dark" |
-  "      \ colorscheme forgotten-dark | endif'
 endif
 
 " clear old theme, activate new
