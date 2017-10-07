@@ -16,14 +16,14 @@ let s:g4 = '889094'
 let s:g5 = 'b0babf'
 let s:g6 = 'd7dde0'
 let s:g7 = 'f5fbff'
-let s:g8 = 'eb6663'
-let s:g9 = 'eb8f4e'
-let s:gA = 'ebcc4e'
-let s:gB = '63946a'
-let s:gC = '56948f'
-let s:gD = '609cbf'
-let s:gE = '9e80bf'
-let s:gF = 'e082a1'
+let s:g8 = 'eb6363'
+let s:g9 = 'e0894a'
+let s:gA = 'e0c34a'
+let s:gB = '639467'
+let s:gC = '4a948e'
+let s:gD = '6097bf'
+let s:gE = '9a80bf'
+let s:gF = 'e0829e'
 
 " terminal colours
 let s:t0 = '00'
@@ -46,20 +46,20 @@ let s:tF = '17'
 " neovim colours
 if has('nvim')
   let g:terminal_color_0 =  '#24292b'
-  let g:terminal_color_1 =  '#eb6663'
-  let g:terminal_color_2 =  '#63946a'
-  let g:terminal_color_3 =  '#ebcc4e'
-  let g:terminal_color_4 =  '#609cbf'
-  let g:terminal_color_5 =  '#9e80bf'
-  let g:terminal_color_6 =  '#56948f'
+  let g:terminal_color_1 =  '#eb6363'
+  let g:terminal_color_2 =  '#639467'
+  let g:terminal_color_3 =  '#e0c34a'
+  let g:terminal_color_4 =  '#6097bf'
+  let g:terminal_color_5 =  '#9a80bf'
+  let g:terminal_color_6 =  '#4a948e'
   let g:terminal_color_7 =  '#b0babf'
   let g:terminal_color_8 =  '#6c7275'
-  let g:terminal_color_9 =  '#eb8f4e'
+  let g:terminal_color_9 =  '#e0894a'
   let g:terminal_color_10 = '#353c40'
   let g:terminal_color_11 = '#464f54'
   let g:terminal_color_12 = '#889094'
   let g:terminal_color_13 = '#d7dde0'
-  let g:terminal_color_14 = '#e082a1'
+  let g:terminal_color_14 = '#e0829e'
   let g:terminal_color_15 = '#f5fbff'
 endif
 
@@ -136,6 +136,7 @@ cal <sid>h('TabLine'          , s:g4 , s:g1 , s:t4 , s:t1 , 'none'      , ''  )
 cal <sid>h('VisualNOS'        , s:g4 , s:g1 , s:t4 , s:t1 , 'none'      , ''  )
 
 " strongly highlighted background
+cal <sid>h('MatchParen'       , s:g6 , s:g2 , s:t6 , s:t2 , 'none'      , ''  )
 cal <sid>h('Pmenu'            , s:g6 , s:g2 , s:t6 , s:t2 , 'none'      , ''  )
 cal <sid>h('Visual'           , s:g6 , s:g2 , s:t6 , s:t2 , 'none'      , ''  )
 
@@ -171,7 +172,6 @@ cal <sid>h('Title'            , s:g9 , ''   , s:t9 , ''   , 'none'      , ''  )
 
 " YELLOW for highlighted elements
 cal <sid>h('DiffText'         , s:g0 , s:gA , s:t0 , s:tA , 'none'      , ''  )
-cal <sid>h('MatchParen'       , s:g0 , s:gA , s:t0 , s:tA , 'none'      , ''  )
 cal <sid>h('Search'           , s:g0 , s:gA , s:t0 , s:tA , 'none'      , ''  )
 cal <sid>h('Todo'             , s:g0 , s:gA , s:t0 , s:tA , 'none'      , ''  )
 
