@@ -5,7 +5,7 @@
 <h2 id="screenshots">screenshots</h2>
 
 <table>
-<tr><td align="center"><strong>forgotten-<br />dark</strong></td><td align="center"><strong>forgotten-<br />light</strong></td></tr>
+<tr><td align="center"><strong>forgotten-dark</strong></td><td align="center"><strong>forgotten-light</strong></td></tr>
 <tr>
 <td><img src="/img/screenshot-forgotten-dark.png" alt="screenshot of the forgotten-dark vim theme" width="288" /></td>
 <td align="center"><img src="/img/screenshot-forgotten-light.png" alt="screenshot of the forgotten-light vim theme" width="288" /></td>
