@@ -66,10 +66,11 @@ call plug#end()
   <li>8 theme-distinct <strong>base colours</strong></li>
   <li>8 standard <strong>accent colours</strong> (shared by members of the “nightsense theme family”) for syntax highlighting
     <ul>
-      <li>hues were selected at the scale of 1/12 (30°) colour wheel intervals, followed by 1/12 subinterval adjustments</li>
+      <li>hues were selected at the scale of 1/12 (30°) colour wheel intervals, then fine-tuned with 1/6 subintervals</li>
       <li>value and saturation were tuned for light backgrounds, then lowered for dark backgrounds</li>
     </ul>
   </li>
+  <li>the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head">ISO 3:1 contrast standard</a> is met by nearly all text/background combinations (exceptions being made for some transient-highlighted backgrounds, such as cursorcolumn/cursorline)</li>
 </ul>
 
 <table>
