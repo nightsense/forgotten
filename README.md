@@ -13,7 +13,7 @@
 </table>
 
 <blockquote>
-  <p>pictured font: <a href="http://input.fontbureau.com/">Input Mono</a></p>
+  <p>pictured font: <a href="http://input.fontbureau.com/">Input Mono Narrow</a> (1.2x line spacing)</p>
 </blockquote>
 
 <h2 id="setup">setup</h2>
@@ -60,18 +60,25 @@ call plug#end()
 
 <h2 id="palette">palette</h2>
 
-<p>forgotten consists of 16 colours:</p>
+<p>forgotten consists of 8 theme-distinct <strong>base colours</strong>, which are used for most interface elements, and 8 standard <strong>accent colours</strong> (common to the “nightsense theme family”) used for syntax highlighting.</p>
 
-<ul>
-  <li>8 theme-distinct <strong>base colours</strong></li>
-  <li>8 standard <strong>accent colours</strong> (shared by members of the “nightsense theme family”) for syntax highlighting
-    <ul>
-      <li>hues were selected at the scale of 1/12 (30°) colour wheel intervals, then fine-tuned with 1/6 subintervals</li>
-      <li>value and saturation were tuned for light backgrounds, then lowered for dark backgrounds</li>
-    </ul>
-  </li>
-  <li>the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head">ISO 3:1 contrast standard</a> is met by nearly all text/background combinations (exceptions being made for some transient-highlighted backgrounds, such as cursorcolumn/cursorline)</li>
-</ul>
+<blockquote>
+  <ul>
+    <li>accent colour hues were selected at the scale of 1/12 (30°) colour wheel intervals
+      <ul>
+        <li>6 of these hues were fine-tuned with 1/6 subinterval adjustments</li>
+      </ul>
+    </li>
+    <li>base colour hue was selected from among:
+      <ul>
+        <li>the 24 hues available at the scale of 1/24 (15°) colour wheel intervals</li>
+        <li>the additional 6 aforementioned fine-tuned hues</li>
+      </ul>
+    </li>
+    <li>discrete intervals were also used for tuning colour saturations (1/24) and values (1/12)</li>
+    <li>the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head">ISO 3:1 contrast standard</a> is met by nearly all text/background combinations, exceptions being made for some transient-highlighted backgrounds (e.g. cursorcolumn, cursorline)</li>
+  </ul>
+</blockquote>
 
 <table>
   <thead>
