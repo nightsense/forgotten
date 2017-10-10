@@ -80,6 +80,7 @@ set background=dark
 augroup ThemeSet
   autocmd!
   autocmd CursorMoved * execute 'if !exists("colors_name") |
+    \ let colors_name = "forgotten-dark" |
     \ colorscheme forgotten-dark | else |
     \ augroup ThemeSet | autocmd! | augroup END | endif'
 augroup END
