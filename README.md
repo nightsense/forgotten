@@ -86,7 +86,7 @@ call plug#end()
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/1d252b.png" height="24" width="42" /> <code class="highlighter-rouge">1d252b</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/eb493a.png" height="24" width="42" /> <code class="highlighter-rouge">eb493a</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/eb7f75.png" height="24" width="42" /> <code class="highlighter-rouge">eb7f75</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/eb6e63.png" height="24" width="42" /> <code class="highlighter-rouge">eb6e63</code></td>
     </tr>
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/303940.png" height="24" width="42" /> <code class="highlighter-rouge">303940</code> </td>
@@ -121,7 +121,7 @@ call plug#end()
     <tr>
       <td style="text-align: right"><img src="http://www.colorhexa.com/f5fbff.png" height="24" width="42" /> <code class="highlighter-rouge">f5fbff</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/c96587.png" height="24" width="42" /> <code class="highlighter-rouge">c96587</code> </td>
-      <td style="text-align: left"><img src="http://www.colorhexa.com/c997a8.png" height="24" width="42" /> <code class="highlighter-rouge">c997a8</code></td>
+      <td style="text-align: left"><img src="http://www.colorhexa.com/c9879d.png" height="24" width="42" /> <code class="highlighter-rouge">c9879d</code></td>
     </tr>
   </tbody>
 </table>
