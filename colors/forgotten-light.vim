@@ -67,8 +67,10 @@ endif
 "=== OTHER PREPARATION ========================================================
 
 " run theme-setting script if using terminal vim
-if !has('gui_running')
-  execute 'silent !/bin/sh $HOME/.nightshell/forgotten-light'
+if filereadable(expand('~/.nightshell/forgotten-light'))
+  if !has('gui_running')
+    execute 'silent !/bin/sh $HOME/.nightshell/forgotten-light'
+  endif
 endif
 
 " clear old theme
