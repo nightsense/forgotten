@@ -7,8 +7,8 @@
 <table>
 <tr><td align="center"><strong>forgotten-dark</strong></td><td align="center"><strong>forgotten-light</strong></td></tr>
 <tr>
-<td><img src="/img/screenshot-forgotten-dark.png" alt="screenshot of the forgotten-dark vim theme" width="180" /></td>
-<td align="center"><img src="/img/screenshot-forgotten-light.png" alt="screenshot of the forgotten-light vim theme" width="180" /></td>
+<td><img src="/img/screenshot-forgotten-dark.png" alt="screenshot of the forgotten-dark vim theme" width="270" /></td>
+<td align="center"><img src="/img/screenshot-forgotten-light.png" alt="screenshot of the forgotten-light vim theme" width="270" /></td>
 </tr>
 </table>
 
