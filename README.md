@@ -102,7 +102,7 @@ let g:forgotten_light_LineNr = 'off'
       <td style="text-align: left"><img src="http://www.colorhexa.com/b5734c.png" height="24" width="42" /> <code class="highlighter-rouge">b5734c</code></td>
     </tr>
     <tr>
-      <td style="text-align: right"><img src="http://www.colorhexa.com/495861.png" height="24" width="42" /> <code class="highlighter-rouge">495861</code> </td>
+      <td style="text-align: right"><img src="http://www.colorhexa.com/51616b.png" height="24" width="42" /> <code class="highlighter-rouge">51616b</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/d4ac35.png" height="24" width="42" /> <code class="highlighter-rouge">d4ac35</code> </td>
       <td style="text-align: left"><img src="http://www.colorhexa.com/ab9248.png" height="24" width="42" /> <code class="highlighter-rouge">ab9248</code></td>
     </tr>
@@ -117,7 +117,7 @@ let g:forgotten_light_LineNr = 'off'
       <td style="text-align: left"><img src="http://www.colorhexa.com/458a81.png" height="24" width="42" /> <code class="highlighter-rouge">458a81</code></td>
     </tr>
     <tr>
-      <td style="text-align: right"><img src="http://www.colorhexa.com/a5a9ab.png" height="24" width="42" /> <code class="highlighter-rouge">a5a9ab</code> </td>
+      <td style="text-align: right"><img src="http://www.colorhexa.com/999c9e.png" height="24" width="42" /> <code class="highlighter-rouge">999c9e</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/3f90bf.png" height="24" width="42" /> <code class="highlighter-rouge">3f90bf</code> </td>
       <td style="text-align: left"><img src="http://www.colorhexa.com/5c869e.png" height="24" width="42" /> <code class="highlighter-rouge">5c869e</code></td>
     </tr>
