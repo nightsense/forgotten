@@ -77,7 +77,7 @@ let g:forgotten_light_LineNr = 'off'
 <blockquote>
   <ul>
     <li><strong>hues</strong> were selected at the scale of 1/48 (7.5°) colour wheel intervals</li>
-    <li><strong>saturations</strong> and <strong>values</strong> were adjusted at the scale of 1/12 and 1/24, respectively</li>
+    <li><strong>saturations</strong> and <strong>values</strong> were selected at the scale of 1/24 (4.17%)</li>
     <li>the <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-73-head">ISO 3:1 contrast standard</a> is met by nearly all text/background combinations, exceptions being made for some transient-highlighted backgrounds (e.g. cursorcolumn, cursorline)</li>
   </ul>
 </blockquote>
@@ -102,7 +102,7 @@ let g:forgotten_light_LineNr = 'off'
       <td style="text-align: left"><img src="http://www.colorhexa.com/b56f45.png" height="24" width="42" /> <code class="highlighter-rouge">b56f45</code></td>
     </tr>
     <tr>
-      <td style="text-align: right"><img src="http://www.colorhexa.com/51616b.png" height="24" width="42" /> <code class="highlighter-rouge">51616b</code> </td>
+      <td style="text-align: right"><img src="http://www.colorhexa.com/495861.png" height="24" width="42" /> <code class="highlighter-rouge">495861</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/d4ac35.png" height="24" width="42" /> <code class="highlighter-rouge">d4ac35</code> </td>
       <td style="text-align: left"><img src="http://www.colorhexa.com/ab8e38.png" height="24" width="42" /> <code class="highlighter-rouge">ab8e38</code></td>
     </tr>
@@ -117,7 +117,7 @@ let g:forgotten_light_LineNr = 'off'
       <td style="text-align: left"><img src="http://www.colorhexa.com/458a8a.png" height="24" width="42" /> <code class="highlighter-rouge">458a8a</code></td>
     </tr>
     <tr>
-      <td style="text-align: right"><img src="http://www.colorhexa.com/999c9e.png" height="24" width="42" /> <code class="highlighter-rouge">999c9e</code> </td>
+      <td style="text-align: right"><img src="http://www.colorhexa.com/a4a8ab.png" height="24" width="42" /> <code class="highlighter-rouge">a4a8ab</code> </td>
       <td style="text-align: center"><img src="http://www.colorhexa.com/468dd4.png" height="24" width="42" /> <code class="highlighter-rouge">468dd4</code> </td>
       <td style="text-align: left"><img src="http://www.colorhexa.com/557b9e.png" height="24" width="42" /> <code class="highlighter-rouge">557b9e</code></td>
     </tr>
