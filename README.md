@@ -1,3 +1,11 @@
+**This repository has been superseded by [vimspectr](https://github.com/nightsense/vimspectr).**
+
+.
+
+.
+
+.
+
 <h1 id="forgotten">forgotten</h1>
 
 <p>A vim theme inspired by the <a href="https://oblotzky.github.io/sa-oblivion/">Oblivion keycap set</a> by oblotzky (which was inspired by the Oblivion tmTheme by Paolo Borelli).</p>
